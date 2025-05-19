@@ -1,9 +1,8 @@
 # Hey there, I'm Batuhan! ☁️
 I'm a business graduate who found his way into the world of tech.
 
-![image](https://github.com/user-attachments/assets/f59ee96b-99ed-48e4-bee4-21a6ea59266f)
 
-    Currently working as a **Solution Sales professional**, I spend my days helping thousands of customers adopt IT solutions like **Cloud computing** & IoT that actually make a difference. From smart factories to secure cloud-native environments, I have been through it all.
+Currently working as a **Solution Sales professional**, I spend my days helping thousands of customers adopt IT solutions like **Cloud computing** & IoT that actually make a difference. From smart factories to secure cloud-native environments, I have been through it all.
 Over the past 4+ years, I’ve had the chance to collaborate with global tech giants, gaining insights not just into technology, but also into the people and impact behind it.
 
 ## Why am I here?
